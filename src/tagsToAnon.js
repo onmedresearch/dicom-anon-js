@@ -27,7 +27,7 @@ var tagsInfo = [
     //GENERAL
     {tagCode: 'x00020012', tagName: 'Implementation Class UID', anonMethod: anon.fixed, fixedVal: '****'},
     {tagCode: 'x00020013', tagName: 'Implementation Class UID', anonMethod: anon.fixed, fixedVal: 'ANON'},
-    {tagCode: 'x00020016', tagName: 'Source Application Entity Title', anonMethod: anon.fixed, fixedVal: 'MFAR'},
+    {tagCode: 'x00020016', tagName: 'Source Application Entity Title', anonMethod: anon.fixed, fixedVal: 'ANON-ENTITY'},
     {tagCode: 'x00020100', tagName: 'Private Information Creator UID', anonMethod: anon.empty},
     {tagCode: 'x00020102', tagName: 'Private Information', anonMethod: anon.empty},
     //UID
